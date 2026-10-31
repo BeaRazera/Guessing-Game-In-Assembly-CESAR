@@ -1,6 +1,3 @@
-### `README.pt-BR.md` (Português)
-
-```markdown
 **Português** | [ English ](README.md)
 
 # Jogo de Adivinhação em Assembly (CESAR)
